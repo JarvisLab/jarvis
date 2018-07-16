@@ -1,7 +1,9 @@
+[JARVIS - For Humans](jarvis.png)
+
 # Jarvis
 ### Programming Language for Humans
 
-![JARVIS - For Humans](jarvis.png)
+
 Jarvis is an static-typed language built for humans with expression. Jarvis is a compiled interpreted languages. We are mainly focused on expressive syntax for faster absorbtion of the langugage. `Jarvis` name comes from a fictional character name in Iron-man. **JARVIS** - (Just-A-Rather-Very-Intelligent-System).
 
 ## Syntax
