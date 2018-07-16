@@ -1,4 +1,4 @@
-[JARVIS - For Humans](jarvis.png)
+![JARVIS - For Humans](jarvis.png)
 
 # Jarvis
 ### Programming Language for Humans
