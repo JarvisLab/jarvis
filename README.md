@@ -39,3 +39,16 @@ Most of the languages available today are trying to reduce the number of lines i
     or:
     	// Do last condition
 
+
+
+
+### Contributing
+
+Jarvis is the work of thousands of contributors. We appreciate your help!
+
+To contribute, please read the contribution guidelines:
+    https://jarvis-lang.org/docs/contribute.html
+
+Note that the Jarvis project uses the issue tracker for bug reports and
+proposals only. See https://jarvis-lang.org/wiki/Questions for a list of
+places to ask questions about the Jarvis language.
