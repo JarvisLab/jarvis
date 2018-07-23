@@ -1,0 +1,34 @@
+# Contributing to Jarvis
+
+Jarvis is an open source project.
+
+It is the work of hundreds of contributors. We appreciate your help!
+
+## Before filing an issue
+
+If you are unsure whether you have found a bug, please consider asking in the [jarvis-lang mailing
+list](https://groups.google.com/forum/#!forum/jarvis-lang) or [other forums](https://jarvis-lang.org/help/) first. If
+the behavior you are seeing is confirmed as a bug or issue, it can easily be re-raised in the issue tracker.
+
+## Filing issues
+
+Sensitive security-related issues should be reported to [security@jarvis-lang.org](mailto:security@jarvis-lang.org).
+See the [security policy](https://jarvis-lang.org/security) for details.
+
+The recommended way to file an issue is by running `go bug`.
+Otherwise, when filing an issue, make sure to answer these five questions:
+
+1. What version of Jarvis are you using (`jarvis version`)?
+2. What operating system and processor architecture are you using?
+3. What did you do?
+4. What did you expect to see?
+5. What did you see instead?
+
+For change proposals, see [Proposing Changes To Go](https://github.com/JarvisLab/jarvis/issues).
+
+## Contributing code
+
+Please read the [Contribution Guidelines](https://jarvis-lang.org/docs/contribute.html) before sending patches.
+
+Unless otherwise noted, the Jarvis source files are distributed under
+the BSD-style license found in the LICENSE file.
