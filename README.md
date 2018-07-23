@@ -6,6 +6,8 @@
 
 Jarvis is an static-typed language built for humans with expression. Jarvis is a compiled interpreted languages. We are mainly focused on expressive syntax for faster absorbtion of the langugage. `Jarvis` name comes from a fictional character name in Iron-man. **JARVIS** - (Just-A-Rather-Very-Intelligent-System).
 
+![JARVIS - For Humans](jarvis.gif)
+
 ## Syntax
 Most of the languages available today are trying to reduce the number of lines in code. We are coming up with an approach to reduce the barrier in applying the logic. We have great interest on python but as we very well know everything inside python are written as objects which has its demerits but we follow similar syntax but tear the object part.
 
